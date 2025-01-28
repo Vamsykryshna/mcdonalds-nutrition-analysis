@@ -31,6 +31,7 @@ Highlighted healthier menu options and areas for improvement.
 
 ## Tools & Technologies
 Python: Pandas, Matplotlib, Seaborn
+
 Jupyter Notebook: For analysis and visualization
 
 ## FPDF: 
@@ -45,6 +46,6 @@ Increase healthy menu options with lower calories, fat, and sodium.
 Reduce added sugars in desserts and beverages.
 Promote balanced meals with nutrient-rich sides like salads or fruits.
 
-##Benefits:
+## Benefits:
 For Customers: Enables informed, health-conscious decisions.
 For McDonald’s: Aligns menu with health trends, improves customer satisfaction, and enhances brand reputation.
